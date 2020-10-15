@@ -2,7 +2,7 @@
 
 This is a simple portfolio style (single-paged) website built upon the bootstrap framework. It is a means of accessing all of the pertaining artist's discography and any important updates for fans such as album releases or concert photos.
 
-P.S. This is one of my first projects, so don't jugde my rookie code too harshly.
+P.S. This is one of my first projects, so please don't jugde my rookie code too harshly. lol :)
 
 ## Demo
 The landing page:
